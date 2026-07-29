@@ -4,7 +4,7 @@
    ========================================================== */
 
 // Backend endpoint
-const API_URL = "https://mental-health-score-2-di0j.onrender.com/";
+const API_URL = "https://mental-health-score-2-di0j.onrender.com/predict";
 
 // Countries available in the searchable dropdown
 const COUNTRIES = [
